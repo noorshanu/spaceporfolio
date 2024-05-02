@@ -13,7 +13,7 @@ function Navbar() {
           height={70}
           className=' cursor-pointer hover:animate-slowspin' />
           <span className='font-bold ml-[10px] hidden md:block text-gray-300'>
-            WebChain Dev
+            Noor Dev
           </span>
         </a>
         <div className=' w-[500px] h-full flex flex-row items-center justify-center md:mr-20'>
